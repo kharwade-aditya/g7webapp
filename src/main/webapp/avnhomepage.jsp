@@ -68,7 +68,7 @@ color:white;
 <div class="text-center">
    <span id="fullyear">2020</span>
    &#169; MARSLANDER Tele Services. All Rights Reserved.<br>
-   | India | USA | Canada | Maxico |
+   | India | USA | Canada | Mexico |
   </div>
   </form>
 </body>
