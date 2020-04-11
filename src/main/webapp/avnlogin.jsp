@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>AVNLogin</title>
+  <title>MARSLANDER Login</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -16,7 +16,7 @@
 <style>
 body {
   background: #e9e9e9;
-  color: #666666;
+  color: #BE81F7;
   font-family: 'RobotoDraft', 'Roboto', sans-serif;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
@@ -165,7 +165,7 @@ position: absolute;
 </div><br>
 <img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARSLANDER Telecom Services</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
